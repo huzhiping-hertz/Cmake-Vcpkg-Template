@@ -1,2 +1,2 @@
 # Cmake-Vcpkg-Template
-Template of project which use vcpkg version and cmake 
+Template of cpp project which use vcpkg version and cmake 
