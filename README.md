@@ -52,3 +52,8 @@ c/c++ extension pack
 远程安装方法
 可以网上查看
 
+
+关于vcpkg install 比较慢的问题
+先下载后安装
+vcpkg install xxx --only-downloads
+vcpkg install xxx
