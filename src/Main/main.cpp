@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello VCPKG";
+	std::cout << "Hello VCPKG\n";
 	return 0; 
 }

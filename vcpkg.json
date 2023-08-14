@@ -1,14 +1,30 @@
 {
-  "name": "cpp-template",
+  "name": "linux-driver",
   "version": "1.0.0",
   "dependencies": [
     {
-      "name": "crow",
-      "version>=": "1.0-1"
+      "name":"poco",
+      "version>=": "1.12.4#4"
     },
-    "boost",
-    "zlib",
-    "poco"
+    {
+      "name":"spdlog",
+      "version>=": "1.12.0"
+    },
+    {
+      "name":"gflags",
+      "version>=": "2.2.2#7"
+    },
+    {
+      "name":"catch2",
+      "version>=": "3.4.0"
+    },
+    {
+      "name":"nlohmann-json",
+      "version>=": "3.11.2"
+    },
+    {
+      "name":"cpp-httplib"
+    }
   ],
-  "builtin-baseline": "47a0bd967d51404a3c86e1c1b63c781b68f30b62"
+  "builtin-baseline": "724744639659efd5a335ae967ee2b33c71fb49ac"
 }
